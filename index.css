@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    flex-direction: column; /* Alinear elementos verticalmente */
+    align-items: center; /* Centrar elementos horizontalmente */
+  
+    background-color: #000000;
+}
+::-webkit-scrollbar {
+    display: none;
+}
